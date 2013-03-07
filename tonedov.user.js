@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Tonedøv
 // @version    0.2
-// @description  Fjern artikler om Tone Damli på Dagbladet.no
+// @description  Fjern artikler om Tone Damli på Dagbladet sine nettsider
 // @match      http://www.dagbladet.no/*
 // ==/UserScript==
 
